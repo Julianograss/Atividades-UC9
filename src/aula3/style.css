@@ -1,0 +1,30 @@
+/* Estilos Base */
+body {
+  background-color: #000000; /* ALUNO: Alterar esta cor na Atividade 2 */
+  color: #333;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+header {
+  background-color: #1a1a2e;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+}
+main {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+h2 {
+  color: #1a1a2e;
+  border-bottom: 2px solid #eee;
+}
+footer {
+  text-align: center;
+  padding: 10px;
+  font-size: 0.8rem;
+  color: #777;
+}
